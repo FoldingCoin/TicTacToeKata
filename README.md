@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Kata
-The tic-tac-toe kata is a tool to give us a chance for the developer to show their skills to the FoldingCoin development team. 
+The tic-tac-toe kata is a tool to give us a chance for the developer to show their skills to the development team. 
 We will use the kata to understand the experience and technique of the developer.
 
 ## Requirements
@@ -18,4 +18,4 @@ We will use the kata to understand the experience and technique of the developer
 * Spend 1-4 hours
 * [See Wiki for more information about Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
-Contact the FoldingCoin development team with any questions
+Contact the development team with any questions
